@@ -62,7 +62,7 @@ nav ul {
     height: 600px;
   }
   .bgColor {
-    transition: all 1s;
+    transition: all .5s;
     background-color: #fff;
     color: #101010;
     border-bottom: 1px solid #707070;
